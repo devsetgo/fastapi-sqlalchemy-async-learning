@@ -1,5 +1,0 @@
-aiosqlite==0.19.0 #  From none |   Vulnerabilities: None
-devsetgo-lib==0.10.1 #  From none |   Vulnerabilities: None
-fastapi[all]==0.100.0 #  From none |   Vulnerabilities: None
-sqlalchemy==2.0.19 #  From none |   Vulnerabilities: None
-tqdm==4.65.0 #  From none |   Vulnerabilities: None
